@@ -1,1 +1,12 @@
 # cookbook
+- Twitter clone but tweets consist of recipes
+    - All normal comment, retweet, like and save functionality is supported
+- Recipe
+    - Ingredients
+    - Instructions
+    - Story/Description
+    - Photos (future enhancement)
+    - Videos (future enhancement)
+- Feed will focus on Recipe Stories with Ingredients and Instructions collapsed
+- Profile has story view, which is like the feed, and cookbook view that has Story collapsed and the other fields expanded
+    - Can also search within a user page for recipes and have a timeline date selection mechanism similar to a classical blog
